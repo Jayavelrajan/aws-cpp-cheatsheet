@@ -13,16 +13,33 @@ Reference sources : AWS Official documentation, Stephane maarek udemy, Neal Davi
 
 Here are the images for quick reference:
 
-(images/1.png)
-2. ![Image 2](images/aws_cheatsheet_2.jpg)
-3. ...
-21. ![Image 21](images/aws_cheatsheet_21.jpg)
+![Image 2](images/1.png)
+![Image 2](images/2.png)
+![Image 2](images/3.png)
+![Image 2](images/4.png)
+![Image 2](images/5.png)
+![Image 2](images/6.png)
+![Image 2](images/7.png)
+![Image 2](images/8.png)
+![Image 2](images/9.png)
+![Image 2](images/10.png)
+![Image 2](images/11.png)
+![Image 2](images/12.png)
+![Image 2](images/13.png)
+![Image 2](images/14.png)
+![Image 2](images/15.png)
+![Image 2](images/16.png)
+![Image 2](images/17.png)
+![Image 2](images/18.png)
+![Image 2](images/19.png)
+![Image 2](images/20.png)
+![Image 2](images/21.png)
 
-## Source and Credits
+## Source
 
-- AWS Official Documentation
+- [AWS Official Documentation](https://docs.aws.amazon.com/)
 - [Stephane Maarek](https://www.udemy.com/user/stephane-maarek/)
-- Neal Davis
+- [Neal Davis](https://www.udemy.com/user/63f4a578-c67a-456b-916c-ddadf73e9a26/)
 
 Feel free to contribute or provide feedback!
 
