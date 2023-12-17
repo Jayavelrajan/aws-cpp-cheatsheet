@@ -1,6 +1,6 @@
 # AWS Services Cheatsheet
 
-Welcome to the AWS Services Cheatsheet repository! Here's a quick reference guide for the AWS Certified Cloud Practitioner (CLF-C02) exam.
+Welcome to the AWS Services Cheatsheet repository! Here's a quick reference guide for the AWS Certified Cloud Practitioner (CLF-C02) exam
 
 ## Overview
 
